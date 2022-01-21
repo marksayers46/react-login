@@ -26,26 +26,3 @@ body {
   padding: 1rem 0.5rem;
 }
 
-.login-box {
-  width: 100%;
-  max-width: 420px;
-  min-height: 400px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  padding: 1rem;
-  background-color: rgba(0,0,0,0.4);
-}
-
-h1 {
-  color: white;
-}
-
-label {
-  color: white;
-}
-
-.form-container {
-  display: flex;
-  flex-direction: column;
-}
